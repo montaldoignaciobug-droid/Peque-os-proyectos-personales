@@ -1,7 +1,7 @@
 # Pequenos-proyectos-personales
 Aquí iré subiendo ocasionalmente proyectos en base a ideas simples que se me vayan ocurriendo.
 
-# Calculadora de Física (Python)
+# 1) Calculadora de Física (Python)
 Proyecto personal de primer semestre para practicar Python
 
 Permite calcular:
