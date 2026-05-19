@@ -187,4 +187,6 @@ while opt != 5:
     print(" 5) Salir\n")
 
     mensaje = "Introduce una opción (1/2/3/4/5): "
+
+print("\n========================================================\n")
     opt = input_int(mensaje)
