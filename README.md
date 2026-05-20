@@ -2,7 +2,7 @@
 Aquí iré subiendo ocasionalmente proyectos en base a ideas simples que se me vayan ocurriendo.
 
 # 1) Calculadora de Física (Python)
-Proyecto personal de primer semestre para practicar Python
+Proyecto personal de primer semestre para practicar Python.
 
 Permite calcular:
 - MRU (distancia, velocidad, tiempo)
