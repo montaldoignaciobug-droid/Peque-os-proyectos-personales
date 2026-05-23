@@ -34,13 +34,7 @@ Este programa calcula la **fuerza de atracción gravitacional** entre dos cuerpo
 ## ¿Cómo usarlo?
 
 1. Ejecuta el programa en Python 3.10 o superior.
-2. Elige dos objetos escribiendo su número:
-
-1) Sol        2) Mercurio
-3) Venus      4) Tierra
-5) Marte      6) Júpiter
-7) Saturno    8) Urano
-
+2. Elige dos objetos escribiendo su numeración especifica.
 3. El programa calculará la fuerza y te preguntará si quieres repetir o salir.
 
 ## Limitaciones actuales
