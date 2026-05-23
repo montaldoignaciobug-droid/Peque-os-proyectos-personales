@@ -19,7 +19,7 @@ Ejecuta "Calculadora_De_Física.py" y sigue el menú.
 
 
 
-# Calculadora de Fuerza Gravitacional (versión inicial)
+# 2) Calculadora de Fuerza Gravitacional (versión inicial)
 
 Este programa calcula la **fuerza de atracción gravitacional** entre dos cuerpos del Sistema Solar (Sol, Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano) usando la **Ley de Gravitación Universal de Newton**.
 
