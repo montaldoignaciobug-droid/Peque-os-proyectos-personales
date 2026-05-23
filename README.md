@@ -27,7 +27,7 @@ Este programa calcula la **fuerza de atracción gravitacional** entre dos cuerpo
 
 - Permite elegir dos cuerpos celestes de una lista numerada.
 - Aplica la fórmula:  
-   F = G · (m₁ · m₂) / d**2
+   F = G * (m1 * m2) / d**2
 - Usa la **distancia mínima posible** entre los cuerpos (cuando están alineados con el Sol) como aproximación.
 - Muestra el resultado en Newtons con notación científica.
 
